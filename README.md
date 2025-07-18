@@ -20,7 +20,7 @@ This repository presents an analytical overview of Kaggle competitions over time
 ## 📈 Project Objectives
 
 - Analyze the growth of Kaggle competitions over time.
-- Identify key themes (e.g., NLP, CV, Time Series) and their evolution.
+- Identify key tags and their evolution.
 - Understand community engagement through team participation and submission behavior.
 - Explore how incentives like prize money affect competition dynamics.
 - Forecast short-term and long-term trends in Kaggle innovation.
@@ -59,13 +59,12 @@ To run the notebook locally:
 pip install pandas matplotlib seaborn jupyter
 ```
 
-You may need Kaggle's competition metadata files:
+If running it via Kaggle, download competition metadata files:
 - `Competitions.csv`
 - `CompetitionTags.csv`
 - `Tags.csv`
 - `Submissions.csv`
 
-Place them in a folder named `/data` or update paths accordingly.
 
 ---
 
@@ -89,7 +88,7 @@ Place them in a folder named `/data` or update paths accordingly.
 
 ## 🗺️ Schematic Overview
 
-![Schematic Overview](schematic.png)
+![Schematic Overview](kaggle_innovation_schematic.png)
 
 > This diagram summarizes the flow from Kaggle data to insight generation and strategic forecasting.
 
@@ -109,6 +108,6 @@ Contributions, insights, and suggestions are welcome! Submit an issue or a pull 
 
 ## 📬 Contact
 
-**[Your Name]**  
-[Email or GitHub handle]  
-[LinkedIn or Website (optional)]
+**[Michel M. Nzikou]**  
+[michel.nzikou@alumni.uleth.ca]
+[https://www.linkedin.com/in/michel-nzikou/]
